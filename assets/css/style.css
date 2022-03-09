@@ -2,10 +2,13 @@
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     background-color: white;
     font-family: sans-serif;
 }
+
+
 /* form{
     margin: 35px;
 }
@@ -30,12 +33,15 @@ body{
     border: none;
     cursor: pointer;
 } */
+
 .btn {
     padding: 0px;
 }
+
 p.call-button.fa.fa-phone:hover {
     text-decoration: underline;
 }
-.h2{
+
+.h2 {
     font-size: calc(10px + 10px) !important;
 }
